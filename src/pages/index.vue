@@ -29,25 +29,25 @@ import DefaultLayout from '@/layouts/default.vue'
             <!-- list card -->
             <div class="w-full mt-10 flex gap-6 flex-wrap max-md:justify-center">
               <div class="flex-1 max-w-[300px] min-w-[200px]">
-                <img src="https://massageyoni247.com/wp-content/uploads/2018/08/massage-yoni-cho-nu-tphcm.html-1-300x180.jpg" alt="">
+                <img class="h-[400px] object-cover w-full" src="@/assets/images/girl-4.jpg" alt="">
                 <h2 class="font-bold text-xl text-center mt-2">Yoni Massage for Women in Ho Chi Minh City - Saigon at Hotels and Private Homes</h2>
                 <span class="block mt-3 w-10 rounded-lg border-b-[3px] m-auto"></span>
                 <span class="mt-3 block">Yoni Massage for Women in Ho Chi Minh City - Saigon. Pham Hung 24/7 specializes in providing services[...]</span>
               </div>
               <div class="flex-1 max-w-[300px] min-w-[200px]">
-                <img src="https://massageyoni247.com/wp-content/uploads/2018/08/massage-yoni-cho-nu-tphcm.html-1-300x180.jpg" alt="">
+                <img class="h-[400px] object-cover w-full" src="@/assets/images/girl-5.jpg" alt="">
                 <h2 class="font-bold text-xl text-center mt-2">The secret to keeping your wife. Ultimate For Gentlemen</h2>
                 <span class="block mt-3 w-10 rounded-lg border-b-[3px] m-auto"></span>
                 <span class="mt-3 block">The Secret to Keeping a Wife for Gentlemen One of the experts [...]</span>
               </div>
               <div class="flex-1 max-w-[300px] min-w-[200px]">
-                <img src="https://massageyoni247.com/wp-content/uploads/2018/08/massage-yoni-cho-nu-tphcm.html-1-300x180.jpg" alt="">
+                <img class="h-[400px] object-cover w-full" src="@/assets/images/girl-6.jpg" alt="">
                 <h2 class="font-bold text-xl text-center mt-2">Women – Time and Youth</h2>
                 <span class="block mt-3 w-10 rounded-lg border-b-[3px] m-auto"></span>
                 <span class="mt-3 block">Women's Aging Over Time TIME!!! . Always [...]</span>
               </div>
               <div class="flex-1 max-w-[300px] min-w-[200px]">
-                <img src="https://massageyoni247.com/wp-content/uploads/2018/08/massage-yoni-cho-nu-tphcm.html-1-300x180.jpg" alt="">
+                <img class="h-[400px] object-cover w-full" src="@/assets/images/girl-7.jpg" alt="">
                 <h2 class="font-bold text-xl text-center mt-2">Yoni Massage Address is Prestigious and Professional</h2>
                 <span class="block mt-3 w-10 rounded-lg border-b-[3px] m-auto"></span>
                 <span class="mt-3 block">Some Tips for Finding a Reputable and Professional Yoni Massage Address [...]</span>
