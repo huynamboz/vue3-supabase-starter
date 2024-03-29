@@ -23,26 +23,26 @@ import DefaultLayout from '@/layouts/default.vue'
             </span>
             <div class="mt-5 w-full flex items-center gap-5 justify-between">
               <span class="border-b-[2px] w-full"></span>
-              <span class=" whitespace-nowrap text-2xl font-bold">Full Service in Doha Qatar</span>
+              <span class=" whitespace-nowrap text-2xl font-bold">Full Service in Saudi arabic</span>
               <span class="border-b-[2px] w-full"></span>
             </div>
             <!-- list card -->
             <div class="w-full mt-10 flex gap-6 flex-wrap max-md:justify-center">
               <div class="flex-1 max-w-[300px] min-w-[200px]">
                 <img class="h-[400px] object-cover w-full" src="@/assets/images/girl-4.jpg" alt="">
-                <h2 class="font-bold text-xl text-center mt-2">Yoni Massage for Women in Ho Chi Minh City - Saigon at Hotels and Private Homes</h2>
+                <h2 class="font-bold text-xl text-center mt-2">Massage full service in Jeddah</h2>
                 <span class="block mt-3 w-10 rounded-lg border-b-[3px] m-auto"></span>
-                <span class="mt-3 block">Yoni Massage for Women in Ho Chi Minh City - Saigon. Pham Hung 24/7 specializes in providing services[...]</span>
+                <span class="mt-3 block">Yoni Massage for Women in Saudi arabic. Specializes in providing services...</span>
               </div>
               <div class="flex-1 max-w-[300px] min-w-[200px]">
                 <img class="h-[400px] object-cover w-full" src="@/assets/images/girl-5.jpg" alt="">
-                <h2 class="font-bold text-xl text-center mt-2">The secret to keeping your wife. Ultimate For Gentlemen</h2>
+                <h2 class="font-bold text-xl text-center mt-2">Massage full service in Riyach</h2>
                 <span class="block mt-3 w-10 rounded-lg border-b-[3px] m-auto"></span>
                 <span class="mt-3 block">The Secret to Keeping a Wife for Gentlemen One of the experts [...]</span>
               </div>
               <div class="flex-1 max-w-[300px] min-w-[200px]">
                 <img class="h-[400px] object-cover w-full" src="@/assets/images/girl-6.jpg" alt="">
-                <h2 class="font-bold text-xl text-center mt-2">Women – Time and Youth</h2>
+                <h2 class="font-bold text-xl text-center mt-2">Massage full service in Khobar</h2>
                 <span class="block mt-3 w-10 rounded-lg border-b-[3px] m-auto"></span>
                 <span class="mt-3 block">Women's Aging Over Time TIME!!! . Always [...]</span>
               </div>
