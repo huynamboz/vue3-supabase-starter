@@ -30,7 +30,7 @@
             </div>
             <div class="flex-1">
                 <p>NEW POST</p>
-                <div class="border-b-[2px] border-gray-700 w-10 mb-5 mt-3"></div>
+                <!-- <div class="border-b-[2px] border-gray-700 w-10 mb-5 mt-3"></div>
                 <div class="flex gap-4 max-w-[350px]">
                     <img class="w-10" src="https://massageyoni247.com/wp-content/uploads/2021/12/massage-yoni-247-150x150.jpg" alt="">
                     <p>Quy Trình Massage Nữ Yoni – Phạm Hùng</p>
@@ -54,7 +54,7 @@
                 <div class="flex gap-4 max-w-[350px] mt-4">
                     <img class="w-10" src="https://massageyoni247.com/wp-content/uploads/2021/12/massage-yoni-247-150x150.jpg" alt="">
                     <p>Quy Trình Massage Nữ Yoni – Phạm Hùng</p>
-                </div>
+                </div> -->
             </div>
         </div>
     </div>
