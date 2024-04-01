@@ -9,7 +9,7 @@
                 <span>Massage full service in saudi arabic & DOHA Qatar</span>
                 <span class="border-l mx-2 h-5 block"></span>
                 <Icon icon="material-symbols-light:call" />
-                <a href="http://Wa.me/+966567091214">http://Wa.me/+966567091214</a>
+                <a href="http://Wa.me/+966568784268">http://Wa.me/+966568784268</a>
             </div>
        </div>
        <div class="w-full bg-white max-w-[1240px] pt-2 pb-2 border-b flex items-center justify-between">

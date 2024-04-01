@@ -60,7 +60,7 @@ import DefaultLayout from '@/layouts/default.vue'
           <p>PRESTIGIOUS-PROFESSIONAL-TRUSTABLE ADDRESS</p>
           <p class="mt-5">We bring you top quality massageyoni247.com services.<br>
             Ensuring confidentiality, privacy and ABSOLUTE confidentiality of customer information</p>
-          <a class="inline-flex gap-3 mt-5 border px-4 py-2 font-semibold" href="http://Wa.me/+966567091214">
+          <a class="inline-flex gap-3 mt-5 border px-4 py-2 font-semibold" href="http://Wa.me/+966568784268">
             <Icon class="text-2xl" icon="logos:whatsapp-icon" />
             +966567091214</a>
         </div>
