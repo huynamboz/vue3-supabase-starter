@@ -1,12 +1,12 @@
 <template>
     <header class="w-full h-fit flex flex-col items-center">
        <div class="w-full bg-red-500 py-2 flex flex-col items-center">
-            <div class="w-full h-full max-w-[1240px] text-white text-sm flex items-center">
+            <div class="w-full h-full flex-wrap max-w-[1240px] text-white text-sm flex items-center">
                 <Icon icon="material-symbols-light:location-on-rounded" />
                 <span class="max-md:hidden">Olaya View</span>
                 <span class="border-l mx-2 h-5 block"></span>
                 <!-- <Icon icon="material-symbols-light:mail" /> -->
-                <span>Full Service in Doha Qatar</span>
+                <span>Massage full service in saudi arabic & DOHA Qatar</span>
                 <span class="border-l mx-2 h-5 block"></span>
                 <Icon icon="material-symbols-light:call" />
                 <a href="http://Wa.me/+966567091214">http://Wa.me/+966567091214</a>

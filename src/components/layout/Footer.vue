@@ -1,6 +1,6 @@
 <template>
     <div class="flex text-white justify-center w-full min-h-[500px] bg-black mt-20">
-        <div class="w-full max-md:flex-col flex-wrap max-w-[1240px] flex justify-between py-10">
+        <div class="p-5 w-full max-md:flex-col flex-wrap max-w-[1240px] flex justify-between py-10">
             <div class="flex-1">
                 <p>MASSAGE FULL SERVICE</p>
                 <p class="text-sm mt-5">
@@ -26,6 +26,10 @@
                 <p class="text-sm mt-5">
                     <p>Ai Juffair</p>
                     <a href="https://maps.app.goo.gl/5Uu58AnmWpuQ87yS8">https://maps.app.goo.gl/5Uu58AnmWpuQ87yS8</a>
+                </p>
+                <p class="text-sm mt-5">
+                    <p>Al Hofuf</p>
+                    <a href="https://maps.app.goo.gl/ZqJedwrcVTHZCb2F9">https://maps.app.goo.gl/ZqJedwrcVTHZCb2F9</a>
                 </p>
             </div>
             <div class="flex-1">

@@ -14,7 +14,7 @@ import DefaultLayout from '@/layouts/default.vue'
             <h2 class="font-bold text-xl text-gray-700">
               LOCATIONS
             </h2>
-            <span class="mt-3">Center Point, Olaya Street Olaya street - facing, Riyadh Saudi Arabia</span>
+            <span class="mt-3 text-center">Center Point, Olaya Street Olaya street - facing, Riyadh Saudi Arabia</span>
             <span class="mt-3">
               Al Khobar, Saudi Arabia
             </span>
@@ -67,7 +67,7 @@ import DefaultLayout from '@/layouts/default.vue'
         <!-- more -->
         <div class="w-full flex justify-center">
           <div class="w-full max-w-[1240px]">
-            <div class="flex max-md:flex-wrap justify-between gap-10 mt-5">
+            <div class="flex max-md:flex-col max-md:p-5 justify-between gap-10 mt-5">
               <div class="flex-1 text-center">
                 <img src="@/assets/images/girl-1.jpg" alt="">
                 <h2 class="font-semibold mt-3">WHAT IS YONI MASSAGE?</h2>
